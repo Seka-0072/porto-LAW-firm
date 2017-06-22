@@ -1,0 +1,102 @@
+#header-colum-img {
+  width: 314px;
+  height: 110px;
+}
+
+#header-img img {
+  width: 184;
+  height: 84px;
+  padding: 10px 0 10px 40px;
+}
+
+.future-box-info {
+  display: inline-block;
+}
+.future-box-info i {
+  font-size: 1.5em;
+}
+
+#contact-number-box {
+  float: left;
+}
+#contact-number-box h4 {
+  font-size: 1.6em;
+  box-sizing: border-box;
+  padding: 30px 0 0 100px;
+  float: left;
+}
+
+#mail-box {
+  float: left;
+}
+#mail-box a {
+  font-size: 1.6em;
+  box-sizing: border-box;
+  padding: 30px 0 10px 85px;
+}
+
+.header-imput-btn input {
+  float: right;
+}
+.header-imput-btn button {
+  float: right;
+}
+
+.head-Main-Slider img {
+  background-size: cover;
+}
+
+#header #header-top {
+  height: 110px;
+  background: white;
+}
+#header #header-top .container .row .col-md-2 img {
+  height: 58px;
+  margin: 20px 0px;
+}
+#header #header-top .container .row .phone {
+  color: #cfa968;
+  font-size: 1.6em;
+  line-height: 110px;
+}
+#header #header-top .container .row .email {
+  color: #cfa968;
+  font-size: 1.6em;
+  line-height: 110px;
+}
+#header #header-top .container .row .col-md-4 {
+  border-left: 1px solid lightgray;
+}
+#header #header-bottom {
+  height: 60px;
+  background: #cfa968;
+}
+#header #header-bottom .my-nav {
+  background: none;
+  border: none;
+  line-height: 60px;
+  min-height: 60px;
+}
+#header #header-bottom .my-nav li > a {
+  padding-top: 20px;
+  padding-bottom: 20px;
+  color: white;
+  text-transform: uppercase;
+}
+#header #header-bottom .my-nav li:hover {
+  background: white;
+}
+#header #header-bottom .my-nav li:hover > a {
+  color: #cfa968;
+}
+#header #header-bottom .col-md-4 {
+  padding: 0px;
+}
+#header #header-bottom .col-md-4 .col-md-8 {
+  padding: 0px;
+}
+#header #header-bottom .col-md-4 .col-md-8 input {
+  border: none;
+  padding: 0px 58px;
+  margin-left: 6px;
+}

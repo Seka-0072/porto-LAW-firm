@@ -1,0 +1,70 @@
+#header{
+	#header-top{
+		height:110px;
+		background:white;
+		.container{
+			.row{
+				.col-md-2{
+					img{
+						height:58px;
+						margin: 20px 0px;
+					}
+				}
+				.phone{
+					color:#cfa968;
+					font-size: 1.6em;
+    				line-height: 110px;
+
+				}
+				.email{
+					color:#cfa968;
+					font-size: 1.6em;
+    				line-height: 110px;
+				}
+				.col-md-4{
+					border-left:1px solid lightgray;
+				}
+			}
+		}
+	}
+
+	#header-bottom{
+		height:60px;
+		background:#cfa968;
+		.my-nav{
+			li{
+				>a{
+					padding-top: 20px;
+    				padding-bottom: 20px;
+    				color:white;
+    				text-transform: uppercase;
+				}
+				&:hover{
+					background:white;
+					>a{
+						color:#cfa968;
+					}
+				}
+			}
+			background:none;
+			border:none;
+			line-height: 60px;
+			min-height: 60px;
+		}
+		.col-md-4{
+			padding:0px;
+			.col-md-8{
+				padding:0px;
+				input{
+					border:none;
+					padding: 0px 58px;
+    				margin-left: 6px;
+
+				}
+			}
+		}
+		
+
+			
+	}
+}
